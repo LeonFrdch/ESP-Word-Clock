@@ -1,6 +1,6 @@
-Entschuldige die vorherigen Missverständnisse. Basierend auf den Screenshots deines Repositories habe ich die genaue Struktur und alle Details erfasst:
 
-* **Contributors:** Leon (`@CodingFactoryL12`) und Tim (`@timbslr`)
+
+* **Contributors:** CodingL (`@CodingFactoryL12`) und Tim (`@timbslr`)
 
 
 * **Bill of Materials (`boom/boom.txt`):** ESP32, WS2812B LED Strip, Temperatursensor, Lichtsensor, Bewegungssensor, USB-C Breakout Board und LED Segment Display
