@@ -66,7 +66,7 @@ Upload the code provided in `files/Word_Clock_ESP_32` to your ESP32 using the Ar
 
 ## Contributors
 
-* Leon (@CodingFactoryL12)
+* CodingL (@CodingFactoryL12)
 * Tim (@timbslr)
 
 ---
